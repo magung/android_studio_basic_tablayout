@@ -1,4 +1,6 @@
-# android_studio_basic_tablayout
+# Android Studio Basic TabLayout
+
+Untuk tutorialnya di https://maulana-magung-tutorial-android.blogspot.com/2020/04/cara-membuat-tablayout-pada-android.html
 
 <img width="200" alt="17a" src="https://user-images.githubusercontent.com/50833200/78237568-b4649b80-7505-11ea-8953-e11d5abd2844.png">
 <img width="200" alt="17b" src="https://user-images.githubusercontent.com/50833200/78237584-b890b900-7505-11ea-8324-bdad12c68ddc.png">
